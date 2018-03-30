@@ -1,0 +1,8 @@
+{
+    "name": "FiAre Bot",
+    "version": "1.0.0",
+    "description": "A friendly, also a fun bot to use. But watch out from the fire!",
+    "main": "bot.js",
+    "author": "aQuiveR",
+    "dependencies": {}
+  }
